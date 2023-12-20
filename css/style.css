@@ -1,0 +1,65 @@
+h1
+{
+    text-align:  center;
+    color: crimson;
+}
+h2
+{
+    text-align:  center;
+    color: Blue;
+}
+h3
+{
+    text-align: center;
+}
+p
+{
+    font-size: 18px;
+}
+.ortali-metin
+{
+    text-align: center;
+}
+.urun-turleri
+{
+    text-align: center;
+    color: cornflowerblue;
+}
+.menu{
+    list-style: none;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: blueviolet;
+}
+.menu-li{
+    display: inline;
+    margin-right: 35px;
+    font-size: 18px;
+}
+.menu-li2{
+    display: inline;
+    margin-right: 35px;
+}
+.icerik
+{
+    background-color: bisque;
+}
+.header-background-color
+{
+    background-color: darkkhaki;
+    padding: 20px;
+    border :0px;
+    margin:0px;
+}
+.h3-about-us
+{
+    text-align: left;
+    color: blue;
+}
+.product-menu
+{
+    text-align: center;
+}
+
